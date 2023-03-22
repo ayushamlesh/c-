@@ -1,0 +1,13 @@
+E:\capgemini\training\a\bin\Debug\a.exe.config
+E:\capgemini\training\a\bin\Debug\a.exe
+E:\capgemini\training\a\bin\Debug\a.pdb
+E:\capgemini\training\a\bin\Debug\EntityFramework.dll
+E:\capgemini\training\a\bin\Debug\EntityFramework.SqlServer.dll
+E:\capgemini\training\a\bin\Debug\EntityFramework.xml
+E:\capgemini\training\a\bin\Debug\EntityFramework.SqlServer.xml
+E:\capgemini\training\a\obj\Debug\DataFirst.csproj.AssemblyReference.cache
+E:\capgemini\training\a\obj\Debug\DataFirst.csproj.SuggestedBindingRedirects.cache
+E:\capgemini\training\a\obj\Debug\DataFirst.csproj.CoreCompileInputs.cache
+E:\capgemini\training\a\obj\Debug\DataFirst.csproj.CopyComplete
+E:\capgemini\training\a\obj\Debug\a.exe
+E:\capgemini\training\a\obj\Debug\a.pdb
